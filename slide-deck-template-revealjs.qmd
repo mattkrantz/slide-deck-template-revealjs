@@ -1,0 +1,172 @@
+---
+format: 
+  revealjs:
+    theme: default
+    logo: images/logo-vumc-cdsi.png
+    incremental: true
+    suppress-bibliography: true
+    css: style.css
+    reveal_options:
+      width: 1920
+      height: 1080
+    embed-resources: true
+bibliography: references.bib
+---
+
+## presentation title
+
+::: {.columns .v-center-container}
+::: {.column width="70%"}
+![](figures/fig-1.png)
+:::
+
+::: {.column .title-slide-name-font width="30%"}
+Matt Krantz, MD
+
+Instructor in Medicine
+
+Date
+:::
+:::
+
+::: footer
+email: [matthew.s.krantz\@vumc.org](mailto:matthew.s.krantz@vumc.org) \| website: [mattkrantz.com](mattkrantz.com)
+:::
+
+# roadmap
+
+## roadmap slide 1 (message 1)
+
+![](figures/fig-1.png){fig-align="center"}
+
+## roadmap slide 2 (message 2)
+
+![](figures/fig-1.png){fig-align="center"}
+
+## roadmap slide 3 (message 3)
+
+![](figures/fig-1.png){fig-align="center"}
+
+# message 1
+
+## assertion
+
+![](figures/fig-1.png){fig-align="center"}
+
+::: footer
+@boice1989
+:::
+
+# message 2
+
+## assertion
+
+![](figures/fig-1.png){fig-align="center"}
+
+::: footer
+@boice1989
+:::
+
+# message 3
+
+## assertion
+
+![](figures/fig-1.png){fig-align="center"}
+
+::: footer
+@boice1989
+:::
+
+# fin
+
+## key message
+
+::: {.columns .v-center-container}
+::: {.column width="60%"}
+![](figures/fig-1.png){fig-align="center"}
+:::
+
+::: {.column width="40%"}
+support statement 1
+
+<br>
+
+support statement 2
+:::
+:::
+
+# acknowledgements
+
+## research team
+
+primary mentor: Elizabeth Phillips, MD
+
+[medsites.vumc.org/cdsi](medsite.vumc.org/cdsi)
+
+## community outreach
+
+::: {.columns .v-center-container}
+::: {.column width="50%"}
+![](images/logo-dress-foundation.jpg){fig-align="center"} DRESS Syndrome Foundation
+
+[dresssyndromefoundation.org](dresssyndromefoundation.org)
+:::
+
+::: {.column width="50%"}
+<br> ![](images/logo-sjs-foundation.png){fig-align="center" width="45%"} <br> Stevens-Johnson Syndrome Foundation
+
+[sjsupport.org](sjsupport.org)
+:::
+:::
+
+## funding
+
+::: {.columns .v-center-container}
+::: {.column width="50%"}
+![](images/logo-aaaai-foundation.png){fig-align="center" width="50%"} <br> AAAAI Foundation Faculty Development Award
+:::
+
+::: {.column width="50%"}
+![](images/logo-niaid.png){fig-align="center"} NIAID K08 AI185260
+:::
+:::
+
+## thank you!
+
+::: {.columns .v-center-container}
+::: {.column width="50%"}
+**let's connect**
+
+email: [matthew.s.krantz\@vumc.org](mailto:matthew.s.krantz@vumc.org)
+
+website: [mattkrantz.com](mattkrantz.com)
+:::
+
+::: {.column width="50%"}
+![](images/photo-matt.png){fig-align="center"}
+:::
+:::
+
+## key message + questions
+
+::: {.columns .v-center-container}
+::: {.column width="60%"}
+![](figures/fig-1.png){fig-align="center"}
+:::
+
+::: {.column width="40%"}
+support statement 1
+
+<br>
+
+support statement 2
+
+<br>
+
+questions?
+:::
+:::
+
+::: footer
+email: [matthew.s.krantz\@vumc.org](mailto:matthew.s.krantz@vumc.org) \| website: [mattkrantz.com](mattkrantz.com)
+:::

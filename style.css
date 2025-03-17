@@ -1,0 +1,12 @@
+/* file: style.css */
+.v-center-container {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+}
+
+/* Bottom-align class using absolute positioning */
+.title-slide-name-font {
+  font-size: 0.6em; /* Apply the font size to all text within the second column */
+}
