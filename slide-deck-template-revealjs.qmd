@@ -98,9 +98,13 @@ support statement 2
 
 ## research team
 
-primary mentor: Elizabeth Phillips, MD
+![](images/photo-cdsi.jpg){fig-align="center"}
 
-[medsites.vumc.org/cdsi](medsite.vumc.org/cdsi)
+<p style="text-align: center;">primary mentor: Elizabeth Phillips, MD</p>
+
+<p style="text-align: center;">[medsites.vumc.org/cdsi](medsite.vumc.org/cdsi)</p>
+
+
 
 ## community outreach
 
